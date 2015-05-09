@@ -215,8 +215,8 @@ The following example produces the same basic layout as the drawer panel example
 </a>
 
 <a href="../../samples/layout-elements/scaffold-app.vulcanized.html" target="_blank">Click image for demo</a>
-
-Use the following code to create the scaffold app:
+ 
+Use the following code to create the scaffold app:  asas
 
 <demo-tabs selected="0">
   <demo-tab heading="HTML">
